@@ -1,0 +1,23 @@
+body{background-color:#84abb9;
+	background-image:url(goblin2.jpg);
+	background-size:cover;
+	color:#000000;
+ 	font-family:Verdana,Arial,serif;margin:auto;
+	}
+h1{text-align:center; background-color:#8308af;
+	padding-top:10px;
+	color:#5089dc;
+	font-style:italic;
+	border:1px solid #000033;
+	
+	}
+fieldset{width:590px;text-align:center;
+	border:2px ridge #000000;
+	padding:30px;}
+legend{font-family:Geogia,"Times New Roman",serif;
+	font-weight:bold;margin:left;padding:10px;margin-right:auto;
+	}
+label{font-family:Arial,sans-serif;}
+#footer{font-style:italic;font-weight:bold;font-size:small;padding-bottom:10px;padding-top:10px;font-size:.70em;padding:20px;}
+
+

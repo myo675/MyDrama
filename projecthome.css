@@ -1,0 +1,64 @@
+
+aside{float:right;
+	blackground-color:#ffffff;
+	width:120px;
+	padding:5px;
+	margin-left:10px;
+	font-size:80%;
+	box-shadow:5px 5px 5px #828282;}
+article header{background-color:#ffffff;
+				background-image:none;
+				padding:0;
+				font-size:80%;}
+#content h1{color:#869dc7;
+			font-family:Arial,sans-serif;}
+header,nav,footer,figure,figcaption,section,article,aside,{display:block;}
+body{background-color:#ffe5ec;
+		font-family:Verdana,Arial,sans-serif;}
+#wrapper{margin:0 auto;
+		width:80%;
+		min-width:960px;
+		background-color:#b3c7e6;
+		color:#000066;}
+
+#header{background-color:#ffb3c6;
+		color:#00005d;
+		font-size:150%;
+font-family:Papyrus,fantasy;
+		padding:10px 10px 10px 155px;
+		background-repeat:no-repeat;
+		background-image:url(lighthouse2.webp);
+		background-size:1300px 600px;}
+#floatright{float:right;
+			margin:10px;}
+#nav{float:right;
+	width:150px;
+	font-weight:bold;
+	letter-spacing:0.1em;}
+#nav ul{list-style-type:none;margin:0;padding:0;}
+#nav a{text-decoration:none;
+		padding:20px;
+		display:block;
+		background-color:#ffc2d1;
+		border-bottom:1px solid #ffffff;}
+#nav a:link{color: #ffffff;}
+#nav a:visted{color:#eaeaea;}
+#nav a:hover{color:#ffc2d1;
+			background-color:#eaeaea;}
+footer{font-size:70%;
+		text-align:center;
+		font-style:italic;
+		padding:10px;
+		background-color:#ffb3c6;
+		clear:both;}
+#header h1{margin-bottom:0;text-align:center;}
+
+#content{background-color:#ffffff;
+		color:#000000;
+		padding:10px 20px;
+		overflow:auto;}
+figure{width:675px;
+	border:1px solid #000000;margin:auto;
+	padding:5px;}
+figcaption{text-align:center;
+		font-family:Papyrus,fantasy;}
